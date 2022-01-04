@@ -6,6 +6,6 @@ For this project I built an ANN to identify different handwritten numbers from 0
 
 My model was able to predict handwritten digit images with a 98.46% accuracy with no tunning of the base model. For a base model, the accuracy reached could meet users criteria and with further training images and fine tuning, the model could be able to predict other images (i.e. math symbols or letters). To reach such accuracy, I used built-in Pytorch tools and created an architecture composed of Convolutional, Linear and Max Pool Layers. The base architecture allowed for time efficient and fairly accurate results.
 
-![alt text](https://github.com/EWolfe5/ANN_image_classifier/blob/main/CNN_confusion_matrix.pdf)
+![alt text](CNN_confusion_matrix.png)
 
 # Notes
